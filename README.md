@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishika Mishra</h1>
-<h3 align="center">I am a highly skilled software engineer with expertise in HTML, CSS, JavaScript, PHP, MySQL, Bootstrap, DBMS, Java, Data Structures, Algorithms, and ReactJS. I am passionate about developing innovative software solutions and thrive on challenging projects.</h3>
+<h3 align="center">Crafting Code Front to Back: Full Stack Dev</h3>
 
 - 🌱 I’m currently learning **Full Stack Development**
 
